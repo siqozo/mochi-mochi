@@ -1,0 +1,249 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: 'Inter';
+    background-image: url(img/Rectangle\ 1.jpg);
+    position: absolute;   
+}
+
+.container{
+    margin: 0px 129px;
+}
+.container{
+    background-image: url(img/Rectangle\ 3.jpg);
+    height: 222px;
+    width: 305px;
+    margin: 0;
+}
+.ava {
+    display: flex;
+    margin-left: 21px;
+    
+    color: #fff;
+    
+
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50%;
+    background-color: #fff;
+    margin-top: 10px;
+    
+    
+
+    
+}
+.ph {
+    margin-bottom: 6px;
+    margin-top: 6px;
+    margin-right: 6px;
+    margin-left: 6px;
+    
+    
+}
+
+.poisk{
+    padding-top: 10px;
+    
+
+}
+
+
+
+.toch {
+   
+   margin-left: 168px;
+   display: flex;
+
+}
+
+.cont {
+    width: 1649px;
+    height: 222px;
+    margin-left: 200px;
+    
+    background-image: url(img/Rectangle\ 14.jpg);
+}
+
+.jon {
+    margin-left: 60px;
+    padding-top: 40px;
+}
+
+.img1 {
+    padding-left: 1500px;
+    margin-top: -90px;
+}
+
+.head {
+    width: 270px;
+    height: 715px;
+    background-color: #3E3E67;
+}
+
+.pic2 {
+    margin-left: 25px;
+    padding-top: 19px;
+}
+
+.zxc {
+    width: 270px;
+    background-color: #00BFFF;
+    height: 90px;
+    margin-top: 9px;
+    
+}
+
+.txt2 {
+font-size: 24px;
+color: #ffff;
+padding-top: 28px;
+margin-left: 33px;
+}
+.senya {
+    font-size: 24px;
+color: #ffff;
+padding-top: 60px;
+margin-left: 33px;
+
+}
+
+.line {
+    border: none; 
+    background-color: black; 
+    color: black; 
+    height: 1px; 
+    width: 270px;
+    margin-left: -33px;
+    margin-top: 20px;
+} 
+.yuna {
+    font-size: 24px;
+color: #ffff;
+padding-top: 30px;
+margin-left: 33px;
+}
+.line1 {
+    border: none; 
+    background-color: black; 
+    color: black; 
+    height: 1px; 
+    width: 270px;
+    margin-left: -33px;
+    margin-top: 20px;
+} 
+.stas {
+    font-size: 24px;
+color: #ffff;
+padding-top: 30px;
+margin-left: 10px;
+}
+.line2 {
+    border: none; 
+    background-color: black; 
+    color: black; 
+    height: 1px; 
+    width: 270px;
+    margin-left: -10px;
+    margin-top: 20px;
+} 
+.kir {
+    font-size: 24px;
+color: #ffff;
+padding-top: 30px;
+margin-left: 22px;
+}
+.line3 {
+    border: none; 
+    background-color: black; 
+    color: black; 
+    height: 1px; 
+    width: 270px;
+    margin-left: -22px;
+    margin-top: 20px;
+} 
+
+.krug {
+    width: 15px;
+    height: 15px;
+
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 220px;
+    margin-top: -20px;
+    
+}
+.ilya {
+    font-size: 24px;
+color: #ffff;
+padding-top: 30px;
+margin-left: 22px;
+}
+.line4 {
+    border: none; 
+    background-color: black; 
+    color: black; 
+    height: 1px; 
+    width: 270px;
+    margin-left: -22px;
+    margin-top: 20px;
+} 
+
+.krug1 {
+    width: 15px;
+    height: 15px;
+
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 150px;
+    margin-top: -20px;
+    
+}
+.fedor {
+    font-size: 24px;
+color: #ffff;
+padding-top: 30px;
+margin-left: 22px;
+}
+.line4 {
+    border: none; 
+    background-color: black; 
+    color: black; 
+    height: 1px; 
+    width: 270px;
+    margin-left: -22px;
+    margin-top: 20px;
+} 
+.pravin {
+    font-size: 24px;
+color: #ffff;
+padding-top: 30px;
+margin-left: 22px;
+}
+.line5 {
+    border: none; 
+    background-color: black; 
+    color: black; 
+    height: 1px; 
+    width: 270px;
+    margin-left: -22px;
+    margin-top: 20px;
+} 
+
+.krug3 {
+    width: 15px;
+    height: 15px;
+
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 228px;
+    margin-top: -20px;
+    
+}
+.perepiska {
+    margin-left: 500px;
+    margin-top: 110px;
+}
